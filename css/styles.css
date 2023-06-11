@@ -484,6 +484,9 @@ img{display: block;}
     margin-top: 0;
     margin-bottom: 0; }
 
+.footer-social-container {
+    margin-right: 80px;}
+
 .logo-footer{
     color: var(--color-brand);
     font-family: 'Raleway', sans-serif;
